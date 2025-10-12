@@ -32,11 +32,11 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        <div className="flex justify-between items-center">
+                        {/* <div className="flex justify-between items-center">
                             <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
                                 View Project →
                             </a>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2_8px_rgba(59,130,246,0.1)] transition-all">
@@ -61,11 +61,11 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        <div className="flex justify-between items-center">
+                        {/* <div className="flex justify-between items-center">
                             <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
                                 View Project →
                             </a>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2_8px_rgba(59,130,246,0.1)] transition-all">
@@ -90,11 +90,11 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        <div className="flex justify-between items-center">
+                        {/* <div className="flex justify-between items-center">
                             <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
                                 View Project →
                             </a>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
