@@ -26,7 +26,7 @@ export const Contact = () => {
     return (
         <section id="contact" className="min-h-screen flex items-center justify-center py-20">
             <RevealOnScroll>
-                <div className="px-4 w-150 mx-auto max-w-lg">
+                <div className="px-4 w-96 mx-auto max-w-lg">
                     <h2 className="text-4xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-green-500 bg-clip-text text-transparent text-center">
                         Let's Connect.
                     </h2>
