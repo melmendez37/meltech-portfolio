@@ -32,11 +32,11 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        {/* <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
+                        <div className="flex justify-between items-center">
+                            <a href="https://github.com/melmendez37/expense-app" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
                                 View Project →
                             </a>
-                        </div> */}
+                        </div>
                     </div>
 
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2_8px_rgba(59,130,246,0.1)] transition-all">
@@ -61,18 +61,18 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        {/* <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
+                        <div className="flex justify-between items-center">
+                            <a href="https://github.com/melmendez37/karawell" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
                                 View Project →
                             </a>
-                        </div> */}
+                        </div>
                     </div>
 
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2_8px_rgba(59,130,246,0.1)] transition-all">
                         <h3 className="text-xl font-bold mb-2">CMISID Project Management System</h3>
                         <ul className="list-disc list-inside text-gray-300 space-y-2 mb-4">
                             <li>
-                                Manage and monitor existing projects of an organization digitally
+                                Collaborative practicum project that manages and monitor existing projects of an organization digitally
                             </li>
                             <li>
                                 Implemented role-based access control for admin, project managers, and developers
@@ -90,11 +90,11 @@ export const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        {/* <div className="flex justify-between items-center">
-                            <a href="#" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
-                                View Project →
+                        <div className="flex justify-between items-center">
+                            <a href="https://github.com/melmendez37/CMISIDProjectManagementSystem/tree/mendez" className="text-blue-300 hover:text-blue-300 transition-colors my-4">
+                                Source Code →
                             </a>
-                        </div> */}
+                        </div>
                     </div>
                 </div>
             </div>
